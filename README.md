@@ -3,9 +3,9 @@
 ###Sou uma estudante apaixonada por tecnologia e ciência.
 
 ###- 🌱 Atualmente estou aprendendo **Java com Spring Boot**.
-###- 🤔 Estou buscando ajuda com C++, especificamente implementação de quaternions.
-###- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/raquel-dias-sim%C3%B5es-07a7591b6/).
-###- ⚡ Curiosidade: Eu gosto muito de aprender línguas, então aleatoriamente estou aprendendo algo básico em alguma língua.
+- 🤔 Estou buscando ajuda com C++, especificamente implementação de quaternions.
+- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/raquel-dias-sim%C3%B5es-07a7591b6/).
+- ⚡ Curiosidade: Eu gosto muito de aprender línguas, então aleatoriamente estou aprendendo algo básico em alguma língua.
 
 ---
 
